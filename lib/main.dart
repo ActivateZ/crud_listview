@@ -15,7 +15,7 @@ class MyApp extends StatelessWidget {
       title: 'CRUD',
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
-        primarySwatch: Colors.purple,
+        primarySwatch: Colors.green,
         useMaterial3: false,
       ),
       home: const HomePage(),
